@@ -1,0 +1,6 @@
+slon@slon-VirtualBox:~/work/go_structures/go_structures$ go run ./
+[1 2 3 4 5]
+2020/04/07 16:48:30 peeking! 5
+2020/04/07 16:48:30 popping!
+2020/04/07 16:48:30 peeking! 4
+[1 2 3 4]
